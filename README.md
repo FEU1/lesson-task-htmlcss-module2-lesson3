@@ -13,6 +13,8 @@ By the end of this lesson task:
 
 You do not need to implement a hamburger menu at this point. We'll look at that when we cover media queries.
 
-By the end of this task, your site should look like this
+### Video
 
-![Result after task 2.3](assets/html-css_task2-3_result.PNG)
+This video shows you how to complete the lesson task 2.3. Only watch it after attempting the lesson task by yourself.
+
+[View on Vimeo](https://vimeo.com/480291314/50645c8bff)
